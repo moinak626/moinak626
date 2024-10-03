@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @moinak626.
-- 👀 I’m interested in Mathematics and Technology.
+- 👋 Hi, I’m Moinak.
+- 👀 I’m interested in Mathematics and Computer Science.
 - 🌱 I’m currently learning C++.
 
 
